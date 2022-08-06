@@ -17,7 +17,7 @@ class SecondViewController: UIViewController {
         super.viewDidLoad()
 
         // Do any additional setup after loading the view.
-        myLabel.text = "Bem vindo \(myName)"
+        myLabel.text = "Bem-Vindo(a) \(myName)!"
     }
     
 
